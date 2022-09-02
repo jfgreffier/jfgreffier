@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **jfgreffier/jfgreffier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Find me
+https://twitter.com/jfgreffier  
+https://www.linkedin.com/in/jfgreffier  
+https://medium.com/@jfgreffier  
+https://github.com/jfgreffier  
