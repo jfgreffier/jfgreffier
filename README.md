@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 ## Find me
 https://twitter.com/jfgreffier  
-https://www.linkedin.com/in/jfgreffier  
+https://linkedin.com/in/jfgreffier  
 https://medium.com/@jfgreffier  
 https://github.com/jfgreffier  
+https://sessionize.com/jean-francois-greffier
