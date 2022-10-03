@@ -28,4 +28,4 @@ https://twitter.com/jfgreffier
 https://linkedin.com/in/jfgreffier  
 https://medium.com/@jfgreffier  
 https://github.com/jfgreffier  
-https://sessionize.com/jean-francois-greffier
+https://sessionize.com/jfgreffier
