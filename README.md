@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Hi! I'm Jean-François, and I'm a Front-end Tech Lead at @conserto. I help teams on their journey to more agility and technical excellence.
+Hi! I'm Jean-François, and I'm a Front-end Tech Lead. I help teams on their journey to more agility and technical excellence.
 
 I'm interested in Agile, Software Craft and testing.
 
