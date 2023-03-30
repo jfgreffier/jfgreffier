@@ -9,7 +9,7 @@ I'm interested in Agile, Software Craft and testing.
 - 🌱 I’m currently learning and contributing to <img width="18px" src="https://miro.medium.com/max/400/1*9L9CKODdyyGiX1iAwwtdYg.png" alt="Playwright logo"/> [Playwright](https://playwright.dev/)
 - 🎭 Playwright Ambassador
 
-What is an Playwright Ambassador anyway ? 🤔  
+What is a Playwright Ambassador anyway ? 🤔  
 > [...] build an amazing Playwright community with the help of our ambassadors who are sharing their knowledge and passion for Playwright though live streams, video courses, conference talks and more.
 
 <!--
