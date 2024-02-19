@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 -->
 
 ## Find me
-https://twitter.com/jfgreffier  
-https://mastodon.top/@jfgreffier  
+https://linkedin.com/in/jfgreffier  
+https://bsky.app/profile/jfgreffier.bsky.social  
 [And more on Linktree](https://linktr.ee/jfgreffier)
